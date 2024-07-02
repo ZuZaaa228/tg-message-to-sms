@@ -1,4 +1,4 @@
-
+[ENG README](https://github.com/ZuZaaa228/tg-message-to-sms/blob/master/README_ENG.md)
 # Мини гайд на использование
 ## 1. Перед установкой 
 ### 1. Создание учетной записи Telegram и получение API ключей
